@@ -9,9 +9,10 @@ In the example file you can find the below section:
 4. How to hide and Delete measures in atoti
 5. How to publish/share dashboard with others
 
+I have attahced few images on Dashboard i built using Atoti.
+
 Atoti can be installed from PyPi
 pip install atoti[jupyterlab]
 
 
-I am working to add a few more examples on atoti....
 
