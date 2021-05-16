@@ -7,6 +7,7 @@ In the example file you can find the below section:
 2. How to read data and build a basic viz using atoti
 3. How to create new measures in atoti
 4. How to hide and Delete measures in atoti
+5. How to publish/share dashboard with others
 
 Atoti can be installed from PyPi
 pip install atoti[jupyterlab]
